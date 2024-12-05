@@ -1,0 +1,10 @@
+# Ignore node_modules folder (if using npm)
+node_modules/
+
+# Ignore IDE files (e.g., VSCode)
+.vscode/
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
